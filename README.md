@@ -1,3 +1,3 @@
 # wenqi-dev dev notes
 
-History and notes for wenqi-dev.
+Post-batch wrap-up notes for wenqi-dev.
