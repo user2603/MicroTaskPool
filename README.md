@@ -1,3 +1,3 @@
 # mengyuan-dev dev notes
 
-History and notes for mengyuan-dev.
+Post-batch wrap-up notes for mengyuan-dev.
